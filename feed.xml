@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[마포 강남 셔츠룸]]></title>
-  <link>https://sf-t3-1779642675702-108.vercel.app</link>
-  <description><![CDATA[마포 AI트렌드 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Wed, 27 May 2026 22:56:06 GMT</pubDate>
-  <lastBuildDate>Wed, 27 May 2026 22:56:06 GMT</lastBuildDate>
-  <atom:link href="https://sf-t3-1779642675702-108.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[AI트렌드]]></title>
+  <link>https://bp-sf-t3-1779642675702-108.netlify.app</link>
+  <description><![CDATA[AI트렌드 - 강남 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 15:34:34 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 15:34:34 GMT</lastBuildDate>
+  <atom:link href="https://bp-sf-t3-1779642675702-108.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[마포 강남 셔츠룸 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://sf-t3-1779642675702-108.vercel.app/</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-108.vercel.app/</guid>
-      <description><![CDATA[마포 AI트렌드 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Wed, 27 May 2026 22:56:06 GMT</pubDate>
+      <title><![CDATA[강남 셔츠룸 vs 강남 셔츠룸 비교 — 어디가 더 좋을까? 비교 분석]]></title>
+      <link>https://bp-sf-t3-1779642675702-108.netlify.app/posts/compare-002-hyidbw.html</link>
+      <guid isPermaLink="true">https://bp-sf-t3-1779642675702-108.netlify.app/posts/compare-002-hyidbw.html</guid>
+      <description><![CDATA[### 포스트 DNA d537f72c **제목: 창작한 제목**: "IPS 패널 로트별 백라이트 블리드 패턴과 무상교체 조건: 일본 내수용 vs 글로벌 버전의 구분" 아, 진짜... 특정 IPS 패널 로트에서만 발생하는 백라이트 블리드 패턴에 대한 논의는 복잡하고 다양]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[강남 셔츠룸 처음 알아볼 때 실제로 많이 묻는 질문 5가지]]></title>
+      <link>https://bp-sf-t3-1779642675702-108.netlify.app/posts/qa-001-hyidbw.html</link>
+      <guid isPermaLink="true">https://bp-sf-t3-1779642675702-108.netlify.app/posts/qa-001-hyidbw.html</guid>
+      <description><![CDATA[제목: 창작한 제목: "PyPI에서 Apache Superset RC3 삭제, 취약성과 삭제 이유에 대한 SRE 엔지니어의 근거 있는 해석" 아, 진짜... PyPI에서 Apache Superset 2.0 릴리스로 RC3 빌드가 삭제되었는데요. 이 변화는 무엇보다 취약]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
